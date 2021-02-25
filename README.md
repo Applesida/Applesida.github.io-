@@ -5,10 +5,12 @@
 ![花生](https://www.mpweekly.com/culture/wp-content/uploads/2020/09/inner-705061-ehilituvkaef1t7.jpeg)
 
 
-ˋˋˋC
+
+```C
 #include <stdio.h>
 int main()
 {
     printf("Hello world\n");
 }
-ˋˋˋ
+
+```
